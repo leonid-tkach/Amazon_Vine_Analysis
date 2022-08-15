@@ -15,6 +15,11 @@ program|results
 Vine:|![](./analysis/vine.png)
 not Vine|![](./analysis/notvine.png)
 
+So:
+- There are 21 vine reviews and 6690 non-vine reviews.
+- There are 10 5-star vine reviews and 3448 5-star non-vine reviews.
+- Percentage of 5-star reviews among total vine reviews is 47.52%, and it's 51.54% for non-vine reviews.
+
 ## Summary
 ### Should we jump to conclusions?
 
